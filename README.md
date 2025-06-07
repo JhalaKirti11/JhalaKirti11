@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JhalaKirti11
+- 👋 Hi, I’m Kirti Jhala.
 - I'm passionate about learning, building, and collaborating on meaningful tech projects!
 - 👀 I’m interested in Web Development, Open Source, UI/UX Design
 - 🌱 I’m currently learning @SpringBoot and @Material_UI and want to explore DevOps tools like Docker
